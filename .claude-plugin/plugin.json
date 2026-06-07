@@ -1,0 +1,13 @@
+{
+  "name": "healthy-food",
+  "description": "Connect to the Healthy Food MCP server to search structured recipes, calorie categories, diet groups, ingredients, nutrition, allergens, cooking steps, and storage guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vectoralix",
+    "email": "mcp@vectoralix.com",
+    "url": "https://vectoralix.com/mcp-servers/healthy-food"
+  },
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
+}

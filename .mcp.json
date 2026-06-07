@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "healthy-food": {
+      "type": "http",
+      "url": "https://vectoralix.com/mcp/PrVaxzTB2TxR"
+    }
+  }
+}

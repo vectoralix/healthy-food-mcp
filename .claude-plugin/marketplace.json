@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "healthy-food",
+  "description": "Healthy Food MCP plugin marketplace for Claude Code",
+  "owner": {
+    "name": "Vectoralix",
+    "email": "mcp@vectoralix.com"
+  },
+  "plugins": [
+    {
+      "name": "healthy-food",
+      "description": "Connect to the Healthy Food MCP server to search structured recipes, nutrition data, allergens, ingredients, cooking steps, calorie categories, and diet groups.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Vectoralix",
+        "email": "mcp@vectoralix.com",
+        "url": "https://vectoralix.com/mcp-servers/healthy-food"
+      },
+      "license": "MIT",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://vectoralix.com/mcp-servers/healthy-food"
+    }
+  ]
+}

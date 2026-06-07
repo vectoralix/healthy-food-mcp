@@ -1,0 +1,9 @@
+{
+  "name": "healthy-food-mcp-server",
+  "version": "1.0.0",
+  "mcpServers": {
+    "healthy-food-mcp-server": {
+      "url": "https://vectoralix.com/mcp/PrVaxzTB2TxR"
+    }
+  }
+}

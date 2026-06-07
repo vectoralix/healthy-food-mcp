@@ -1,0 +1,18 @@
+{
+  "name": "healthy-food",
+  "displayName": "Healthy Food",
+  "description": "Healthy Food plugin for Cursor with MCP tools and skills for recipe discovery, meal planning, nutrition lookup, allergens, and cooking guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vectoralix",
+    "email": "mcp@vectoralix.com",
+    "url": "https://vectoralix.com/mcp-servers/healthy-food"
+  },
+  "homepage": "https://vectoralix.com/mcp-servers/healthy-food",
+  "repository": "https://vectoralix.com/mcp-servers/healthy-food",
+  "license": "MIT",
+  "keywords": ["healthy-food", "mcp", "recipes", "nutrition", "meal-planning", "skills"],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcp": "./.mcp.json"
+}
